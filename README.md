@@ -1,9 +1,17 @@
 ```json
 {
   "name": "Jerry Barman",
+  "languages": ["Javascript", "Java", "C++", "Python"],
   "technologies": {
-    "languages": ["Javascript", "Java", "C++"],
-    "toolsAndFrameworks": ["Node", "Express", "Hapi", "Apollo", "GraphQL", "React", "Android"],
+    "toolsAndFrameworks": [
+      "Node",
+      "Express",
+      "Hapi",
+      "Apollo",
+      "GraphQL",
+      "React",
+      "Android"
+    ],
     "databases": ["MongoDB", "SQL"]
   }
 }
